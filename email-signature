@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<div class="f name" style="color: #102B4E;font-size: 11pt;">
+    <p><b>Reza Jalili</b><br> 
+    Founder</p>
+</div>
+<table style="width: 430px;mso-table-lspace: 0pt;mso-table-rspace: 0pt;">
+    <tbody>
+    <tr>
+        <td height="51px" style="border-collapse: collapse;">
+            <img height="80" src="https://tools-galeforce.s3.ap-southeast-2.amazonaws.com/Signature-Crop.jpg" style="-ms-interpolation-mode: bicubic;">
+        </td>
+        <td width="11px" style="border-collapse: collapse;"></td>
+        <td class="vl" style="border-collapse: collapse;border-left: 0.7pt solid #102B4E;height: 51pt;"></td>
+        <td width="11px" style="border-collapse: collapse;"></td>
+        <td style="width: 330px;position: relative;border-collapse: collapse;">
+            <table style="mso-table-lspace: 0pt;mso-table-rspace: 0pt;">
+            <tbody class="f details" style="color: #102B4E;font-size: 10pt;line-height: 10pt;">
+            <tr>
+                <td class="words" style="border-collapse: collapse;vertical-align: top;">
+                <b>T</b> +61 402 768 797 &nbsp;<br>
+                <b><a href="https://galeforce.io">https://galeforce.io</a></b></td>
+            </tr>
+                <tr><td style="border-collapse: collapse;"></td></tr>     
+            </td>
+        </tr>
+            </tbody></table>
+        </td>
+    </tr>
+    </tbody>
+</table>
+</body>
+</html>
